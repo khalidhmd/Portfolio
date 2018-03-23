@@ -6,8 +6,9 @@ body {
     font-family: 'Roboto', sans-serif;
     max-width: 900px;
 }
-#page_header, #featured_section {
+#page_header {
     width: 100%;
+    display: flex;
     justify-content: space-between;
 }
 
